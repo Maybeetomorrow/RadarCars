@@ -1,0 +1,55 @@
+name: radar
+description: "RadarCars application"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  csv: ^6.0.0
+  flutter:
+    sdk: flutter
+  flutter_downloader: ^1.12.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.4.6
+  http: ^1.3.0
+  intl: ^0.20.2
+  json: ^0.20.4
+  path_provider: ^2.1.5
+  permission_handler: ^11.4.0
+  shared_preferences: ^2.5.3
+  syncfusion_flutter_datepicker: ^29.1.38
+  wifi_iot: ^0.3.19+2
+  wifi_scan: ^0.4.1+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/mainLogo/logo.png
+    - assets/images/car/car_left.png
+    - assets/images/car/car_right.png
+    
+  fonts:
+    - family: CuprumBold
+      fonts:
+        - asset: assets/fonts/Cuprum-Bold.ttf
+    - family: CuprumRegular
+      fonts:
+        - asset: assets/fonts/Cuprum-Regular.ttf         
+
+flutter_native_splash:
+  color: "#CCBD9E"
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/mainLogo/app_logo.png"  
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/mainLogo/app_logo.png"
