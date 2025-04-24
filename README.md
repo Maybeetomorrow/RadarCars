@@ -14,7 +14,7 @@
 - Запись информации о пройденном ТО.
 
 **Бесплатно и open-source**:  
-- Исходный код доступен на [GitHub](https://github.com/radar).  
+- Исходный код доступен на [GitHub](https://github.com/Maybeetomorrow/radar).  
 - Никаких скрытых платежей.  
 
 **Автономная работа**:  
@@ -42,7 +42,7 @@
 ## Установка
 1. Клонируйте репозиторий:  
    ```bash
-   git clone https://github.com/radar.git
+   git clone https://github.com/Maybeetomorrow/radar.git
    ```
 2. Установите зависимости:  
    ```bash
@@ -63,6 +63,6 @@
 
 ## Контакты
 - Связь с автором: **zxcurve@yandex.ru**  
-- Сообщить о баге: [GitHub Issues](https://github.com/radar/issues)  
+- Сообщить о баге: [GitHub Issues](https://github.com/Maybeetomorrow/radar/issues)  
 
 *Данный проект не заменяет профессиональную диагностику. Используйте на свой риск.*  
