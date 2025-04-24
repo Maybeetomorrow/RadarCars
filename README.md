@@ -14,7 +14,7 @@
 - Запись информации о пройденном ТО.
 
 **Бесплатно и open-source**:  
-- Исходный код доступен на [GitHub](https://github.com/radar_cars).  
+- Исходный код доступен на [GitHub](https://github.com/radar).  
 - Никаких скрытых платежей.  
 
 **Автономная работа**:  
@@ -42,7 +42,7 @@
 ## Установка
 1. Клонируйте репозиторий:  
    ```bash
-   git clone https://github.com/radar_cars.git
+   git clone https://github.com/radar.git
    ```
 2. Установите зависимости:  
    ```bash
@@ -63,6 +63,6 @@
 
 ## Контакты
 - Связь с автором: **zxcurve@yandex.ru**  
-- Сообщить о баге: [GitHub Issues](https://github.com/radar_cars/issues)  
+- Сообщить о баге: [GitHub Issues](https://github.com/radar/issues)  
 
 *Данный проект не заменяет профессиональную диагностику. Используйте на свой риск.*  
