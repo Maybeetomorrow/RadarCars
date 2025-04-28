@@ -36,6 +36,7 @@
 ## Требования
 - **Android**: 8.0+ (API 26), 2 ГБ ОЗУ.  
 - **iOS**: 14.0+, поддержка фоновых задач.  
+- Необходимый сервер [GitHub](https://github.com/Maybeetomorrow/RadarServer).  
 
 ---
 
